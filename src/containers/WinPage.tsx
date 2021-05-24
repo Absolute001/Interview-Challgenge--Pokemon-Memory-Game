@@ -7,7 +7,7 @@ const WinPage = () => {
 
   return (
     <section className=" flex h-screen bg-blue-light">
-      <div className="p-4 my-auto flex flex-col">
+      <div className="p-4 my-auto flex flex-col mx-auto">
         <img src="https://i.imgur.com/PDDainu.png" alt="you win!" />
         <Button
           disabled={false}
